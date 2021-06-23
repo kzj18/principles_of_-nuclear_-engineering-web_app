@@ -4,13 +4,9 @@
 
 本项目针对燃耗计算问题分别基于`python-streamlit`框架开发了网页APP。本项目的宗旨是本项目是为不同平台、不同使用需求的用户带来便捷的、个性化的反应堆燃耗计算服务。
 
----
-
 ## 二、项目成果
 
 本项目完成了网页APP在服务器、Heroku的部署，部署方法及实例平台详见后文。
-
----
 
 ## 三、实例介绍
 
@@ -91,15 +87,11 @@ sudo docker restart <CONTAINER ID>
 
 * 利用本方法部署的网页APP可以[点击链接访问](http://http://180.76.237.109:8501/)。
 
----
-
 ### 4.2.利用Heroku进行部署
 
 部署过程参考博客[《还在嫌弃作业不够秀？快来试试streamlit+heroku 搭建自己的炫酷app叭》](https://blog.csdn.net/weixin_44984664/article/details/105776080)。
 
 * 利用本方法部署的的网页APP可以[点击链接访问](https://burnup-calculator.herokuapp.com/)，访问需要科学上网。
-
----
 
 ### 4.3.界面及操作说明
 
